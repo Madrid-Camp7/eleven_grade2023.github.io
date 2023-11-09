@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ff00ee;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.caja {
+    background-color: #a7ff59;
+    color: #000000;
+    padding: 20px;
+    margin: 50px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+p {
+    font-size: 18px;
+}
